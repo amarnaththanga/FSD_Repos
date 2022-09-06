@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class DatabaseConnection {
 
-		// datasource config
+	// datasource config
 	static final String DB_URL = "jdbc:mysql://localhost:3306/ems_system_db";
 	static final String USERNAME = "root";
 	static final String PASSWORD = "Indian$123";
@@ -30,4 +30,5 @@ public class DatabaseConnection {
 		// return connection
 		return connection;
 	}
+	
 }

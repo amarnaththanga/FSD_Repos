@@ -1,5 +1,3 @@
 /target/
-/.classpath
-/.gitignore
-/.settings/
-/pom.xml
+/bin/
+/.project
